@@ -1,16 +1,54 @@
-## Hi there 👋
+# 👋 Hi, I'm Asaduzzaman Asif
 
-<!--
-**asaduzzamanasif30-sudo/asaduzzamanasif30-sudo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Front-End Web Developer
 
-Here are some ideas to get you started:
+I am a passionate **Front-End Web Developer** with over **1.5 years of experience** building modern, responsive, and user-friendly websites. I focus on clean design, performance, and writing maintainable code.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧑‍💻 About Me
+
+- 💼 Front-End Developer
+- 🌱 Constantly learning new technologies
+- 🎯 Focused on building responsive & user-friendly websites
+- ⚡ Love to turn design (Figma) into real websites
+
+---
+
+## 🛠️ Skills & Technologies
+
+- 🌐 HTML5  
+- 🎨 CSS3  
+- 🧩 Bootstrap  
+- 💨 Tailwind CSS  
+- ⚙️ JavaScript  
+- 🖥️ WordPress  
+
+---
+
+## 📊 GitHub Stats
+
+![Asif's GitHub stats](https://github-readme-stats.vercel.app/api?username=asaduzzamanasif30-sudo&show_icons=true&theme=tokyonight)
+
+---
+
+## 🔥 Top Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asaduzzamanasif30-sudo&layout=compact&theme=tokyonight)
+
+---
+
+## 📫 Contact Me
+
+- 📧 Email: asaduzzamanasif30@gmail.com  
+- 📱 Phone: +8801861050437  
+
+---
+
+## 🌍 Let's Connect
+
+Feel free to reach out for collaboration, freelance work, or just a friendly chat!
+
+---
+
+⭐ **Thanks for visiting my profile!**

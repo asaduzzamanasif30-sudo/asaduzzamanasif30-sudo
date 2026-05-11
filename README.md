@@ -1,43 +1,74 @@
-# 👋 Hi, I'm Asaduzzaman Asif
+<h1 align="center">Hi 👋, I'm Asaduzzaman Asif</h1>
+<h3 align="center">Frontend Web Developer | WordPress Expert | JavaScript Enthusiast</h3>
 
-## 🚀 Front-End Web Developer
-
-I am a passionate **Front-End Web Developer** with over **1.5 years of experience** building modern, responsive, and user-friendly websites. I focus on clean design, performance, and writing maintainable code.
-
----
-
-## 🧑‍💻 About Me
-
-- 💼 Front-End Developer
-- 🌱 Constantly learning new technologies
-- 🎯 Focused on building responsive & user-friendly websites
-- ⚡ Love to turn design (Figma) into real websites
+<p align="center">
+  Passionate about creating modern, responsive, and user-friendly websites.
+</p>
 
 ---
 
-## 🛠️ Skills & Technologies
+## 👨‍💻 About Me
+
+- 🔭 I’m a *Frontend Web Developer*
+- 🌱 Skilled in *HTML, CSS, Bootstrap, Tailwind CSS, JavaScript & WordPress*
+- 💼 I have *1.5 years of experience* in web development
+- 🎯 Focused on building clean, responsive, and performance-optimized websites
+- 📫 Email: **asaduzzamanasif30@gmail.com*
+- 📱 Phone: *+8801861050437*
+
+---
+
+## 🚀 Skills & Technologies
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,javascript,wordpress,github,vscode" />
 </p>
 
-## 🔥 Top Languages
+---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asaduzzamanasif30-sudo&layout=compact&theme=tokyonight)
+## 💡 What I Do
+
+✔️ Responsive Website Design  
+✔️ Landing Page Development  
+✔️ Business Website Development  
+✔️ WordPress Website Customization  
+✔️ Modern UI Design  
+✔️ Cross-Browser Compatible Websites  
 
 ---
 
-## 📫 Contact Me
+## 📊 GitHub Stats
 
-- 📧 Email: asaduzzamanasif30@gmail.com  
-- 📱 Phone: +8801861050437  
+<!-- <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" alt="github stats" />
+</p> -->
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" alt="github streak" />
+</p>
 
 ---
 
-## 🌍 Let's Connect
+## 🌐 Connect With Me
 
-Feel free to reach out for collaboration, freelance work, or just a friendly chat!
+<p align="left">
+  <a href="mailto:asaduzzamanasif30@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+
+  <a href="https://github.com/bonkimchakroborty">
+    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
-⭐ **Thanks for visiting my profile!**
+## ✨ Developer Quote
+
+> "Code is not just code — it's a way to build ideas into reality."
+
+---
+
+<p align="center">
+  Thanks for visiting my profile ❤️
+</p>

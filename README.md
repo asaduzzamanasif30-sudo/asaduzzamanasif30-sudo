@@ -26,11 +26,6 @@ I am a passionate **Front-End Web Developer** with over **1.5 years of experienc
 
 ---
 
-## 📊 GitHub Stats
-
-![Asif's GitHub stats](https://github-readme-stats.vercel.app/api?username=asaduzzamanasif30-sudo&show_icons=true&theme=tokyonight)
-
----
 
 ## 🔥 Top Languages
 

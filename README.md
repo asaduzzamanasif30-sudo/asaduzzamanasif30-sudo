@@ -17,15 +17,9 @@ I am a passionate **Front-End Web Developer** with over **1.5 years of experienc
 
 ## 🛠️ Skills & Technologies
 
-- 🌐 HTML5  
-- 🎨 CSS3  
-- 🧩 Bootstrap  
-- 💨 Tailwind CSS  
-- ⚙️ JavaScript  
-- 🖥️ WordPress  
-
----
-
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,javascript,wordpress,github,vscode" />
+</p>
 
 ## 🔥 Top Languages
 
